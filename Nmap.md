@@ -1,4 +1,4 @@
-# Nmap
+# NMAP Scan
 
 Target IP Address: `192.168.0.7`
 
