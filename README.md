@@ -1,6 +1,6 @@
 # MoneyBox
 
-1. Scan the Network to find the vulnerable machine and the ports available to exploit using `Nmap``.
+1. Scan the Network to find the vulnerable machine and the ports available to exploit using `Nmap`.
 	* Port `21` for `FTP`
 	* Port `22` for `ssh`
 	* Port `80` for `http`
